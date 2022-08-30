@@ -1,0 +1,23 @@
+{
+  "name": "nodegenerator",
+  "version": "1.0.0",
+  "description": "Command Line HTML Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noahbrown26/NodeGenerator.git"
+  },
+  "author": "Noah Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noahbrown26/NodeGenerator/issues"
+  },
+  "homepage": "https://github.com/Noahbrown26/NodeGenerator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  }
+}
